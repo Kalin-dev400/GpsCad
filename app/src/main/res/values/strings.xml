@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">GPS CAD</string>
+    <string name="action_settings">Език</string>
+    <string name="help">Помощ</string>
+    <string name="action_openfile">Зареди файл</string>
+    <string name="chooser_title">Избери файл</string>
+    <string name="list_button_select">Избери</string>
+    <string name="list_button_back">Назад</string>
+    <string name="setting_maptile">Подложка</string>
+    <string name="infowindow_trackbutton">Навигирай</string>
+    <string name="input_text_pointType">Тип</string>
+    <string name="input_accept">Създай</string>
+    <string name="input_close">Затвори</string>
+    <string name="action_inputLayout">Създай точка</string>
+
+    <!--
+    <string name="app_name">GPS CAD</string>
+    <string name="action_settings">Language</string>
+    <string name="help">Help</string>
+    <string name="action_openfile">Open File</string>
+    <string name="chooser_title">Select File</string>
+    <string name="list_button_select">Select</string>
+    <string name="list_button_back">Back</string>
+    <string name="setting_maptile">Map Underlay</string>
+    <string name="infowindow_trackbutton">Navigate</string>
+    <string name="input_text_pointType">Type</string>
+    <string name="input_accept">Create</string>
+    <string name="input_close">Close</string>
+    <string name="action_inputLayout">Create Point</string>
+
+    -->
+</resources>
